@@ -1,6 +1,7 @@
 theme-expanse
 =============
 
+Forked from [Postach.io theme](https://github.com/postachio/theme-expanse.git)
 
 The official repository for our default theme, Expanse. Fork this to use it as a boilerplate.
 
